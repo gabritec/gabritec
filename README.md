@@ -4,7 +4,7 @@
 
 ![Gabritel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabritec&show_icons=true&theme=radical)
 
-## Tecnologias que uso no meu dia a dia
+## Tecnologias utilizadas no meu dia a dia
 
 <div style="display: inline_block"><br/>
     <img aling= "center" alt ="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
